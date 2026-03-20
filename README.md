@@ -27,3 +27,12 @@ npx zenn new:article --slug my-new-article   # 新規記事作成
 ## セットアップ
 
 zenn.dev ダッシュボード → デプロイ管理 → GitHub 連携で `odakin/zenn-articles` を接続。
+
+## TODO
+
+- [ ] Zenn アカウントを日本語用・英語用に分離
+  - 日本語アカウント: 日本語記事のみ投稿
+  - 英語アカウント: 英語記事のみ投稿
+  - リポも分離するか、1リポで branch/ディレクトリ分けするか検討
+- [ ] 既存の英語記事（Epstein Part 1/2, Claude Code EN）を英語アカウントに移行
+- [ ] GitHub 連携の再設定（アカウント分離後）
