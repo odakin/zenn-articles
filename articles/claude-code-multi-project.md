@@ -8,6 +8,10 @@ published: false
 
 # はじめに
 
+:::message
+この記事の英語版は dev.to で公開しています: [English version](https://dev.to/odakin/solving-claude-codes-memory-loss-multi-project-design-patterns-3kjm)
+:::
+
 Claude Code を本格的に使い始めると、すぐにぶつかる壁がある。
 
 **「さっきまで完璧に理解してたのに、突然全部忘れた」**
