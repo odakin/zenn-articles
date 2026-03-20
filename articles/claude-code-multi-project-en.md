@@ -211,7 +211,7 @@ Put rules like these in shared conventions:
 Pay special attention to **LaTeX projects**. Claude can hallucinate equation changes. For research paper repos, I added:
 
 ```markdown
-8. Do not modify LaTeX equations (equation/align environments)
+7. Do not modify LaTeX equations (equation/align environments)
    without explicit user approval.
 ```
 
