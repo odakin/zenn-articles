@@ -26,7 +26,7 @@ zenn-articles/
 - デプロイ: GitHub 連携により `articles/` を含む push で自動デプロイ
 
 ## How to Resume
-1. SESSION.md は不要（記事リポのため）
+1. SESSION.md を読む（未公開記事リスト・直近の作業）
 2. README.md の記事一覧を参照
 3. 変更後は commit + push
 
