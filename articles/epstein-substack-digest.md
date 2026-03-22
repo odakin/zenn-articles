@@ -82,5 +82,5 @@ published: false
 [前編](https://zenn.dev/odakin/articles/64d591c7e2be9f/)｜[後編](https://zenn.dev/odakin/articles/45c18ff49d5ddc/)｜[原文版](https://zenn.dev/odakin/articles/60344cac5d34ca/)｜[English Part 1](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643)｜[English Part 2](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-ii-the-leverage-3eag)
 
 **ダイジェスト版**
-[AIの回避パターン（Zenn）](https://zenn.dev/odakin/articles/epstein-ai-evasion-digest)｜[AI Evasion Patterns (dev.to, English)](https://dev.to/odakin/chatgpt-thought-suspicious-but-wrote-unlikely-4p1o)
+[AIの回避パターン（Zenn）](https://zenn.dev/odakin/articles/epstein-ai-evasion-digest)｜[AI Evasion Patterns (dev.to)](https://dev.to/odakin/chatgpt-thought-suspicious-but-wrote-unlikely-4p1o)｜[Who Protected Epstein? (dev.to)](https://dev.to/odakin/who-protected-epstein-the-complicity-structure-30pf)
 :::
