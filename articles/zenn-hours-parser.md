@@ -295,6 +295,8 @@ Excelからのコピペ。タブ区切り。
 
 ---
 
+> **開示:** 正規表現パターンとパーサーのコードは [Claude Code](https://claude.ai/claude-code) で生成し、実データに対する反復テストで精緻化しました。この記事に書いた設計判断、カバー率の目標設定、「どこで止めるか」の判断は筆者自身のものです。
+
 ## リポジトリ
 
 https://github.com/odakin/mhlw-ec-pharmacy-finder
