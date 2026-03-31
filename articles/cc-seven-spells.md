@@ -9,7 +9,7 @@ published: false
 ## はじめに
 
 :::message
-この記事の英語版は dev.to で公開しています: [English version](https://dev.to/odakin/7-phrases-that-make-claude-code-actually-reliable-lessons-from-20-projects-52e5)
+この記事の英語版は dev.to で公開しています: [English version](https://dev.to/odakin/7-phrases-that-make-claude-code-actually-reliable-lessons-from-20-projects-3cc0)
 この記事は [Claude Codeが全部忘れる問題を解決する](https://zenn.dev/odakin/articles/claude-code-multi-project) の続編です。CLAUDE.md / SESSION.md の基本パターンを前提としています。
 :::
 
