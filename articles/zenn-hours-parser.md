@@ -306,5 +306,5 @@ https://github.com/odakin/mhlw-ec-pharmacy-finder
 サイト自体は[こちら](https://odakin.github.io/mhlw-ec-pharmacy-finder/)。厚労省の公式データから全国10,000件以上の薬局と2,900件以上の医療機関を検索できます。
 
 :::message
-**続編:** [97%パーサーが完成した。そしてユーザーは「今開いてる薬局」を求めた](https://zenn.dev/odakin/articles/parser-open-now)
+**続編:** [97%パーサーが完成した。次は「今開いてる薬局」が欲しくなった](https://zenn.dev/odakin/articles/parser-open-now)
 :::
