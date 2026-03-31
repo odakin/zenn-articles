@@ -7,6 +7,7 @@ published: false
 ---
 
 :::message
+この記事の英語版は dev.to で公開しています: [English version](https://dev.to/odakin/stop-babysitting-your-ai-how-i-made-claude-code-enforce-its-own-rules-jmm)
 前回の記事: [Claude Codeが全部忘れる問題を解決する―複数プロジェクト運用の設計パターン](https://zenn.dev/odakin/articles/claude-code-multi-project)
 :::
 
