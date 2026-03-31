@@ -304,3 +304,7 @@ https://github.com/odakin/mhlw-ec-pharmacy-finder
 パーサーのコードは [`docs/app.js`](https://github.com/odakin/mhlw-ec-pharmacy-finder/blob/main/docs/app.js) に、設計ドキュメントは [`docs/HOURS_PARSER.md`](https://github.com/odakin/mhlw-ec-pharmacy-finder/blob/main/docs/HOURS_PARSER.md) にあります。
 
 サイト自体は[こちら](https://odakin.github.io/mhlw-ec-pharmacy-finder/)。厚労省の公式データから全国10,000件以上の薬局と2,900件以上の医療機関を検索できます。
+
+:::message
+**続編:** [97%パーサーが完成した。そしてユーザーは「今開いてる薬局」を求めた](https://zenn.dev/odakin/articles/parser-open-now)
+:::
