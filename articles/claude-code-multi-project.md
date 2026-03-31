@@ -308,6 +308,12 @@ CONVENTIONS.md をフォークして、自分のワークフローに合わせ�
 
 リポジトリ: https://github.com/odakin/claude-config
 
+:::message
+**このシリーズの続編**
+- [Claude Codeを手懐ける7つの呪文―実運用で見つけたTips集](https://zenn.dev/odakin/articles/cc-seven-spells)
+- [「Claude Codeが全部忘れる問題」のその後―20リポ運用で踏んだ3つの地雷と自動化した解決策](https://zenn.dev/odakin/articles/claude-code-guardrails)
+:::
+
 ---
 
 :::message

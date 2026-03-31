@@ -9,7 +9,8 @@ published: false
 ## はじめに
 
 :::message
-この記事は [Claude Codeが全部忘れる問題を解決する―複数プロジェクト運用の設計パターン](https://zenn.dev/odakin/articles/claude-code-multi-project) の続編です。CLAUDE.md / SESSION.md の基本パターンを前提としています。
+この記事の英語版は dev.to で公開しています: [English version](https://dev.to/odakin/7-phrases-that-make-claude-code-actually-reliable-lessons-from-20-projects-52e5)
+この記事は [Claude Codeが全部忘れる問題を解決する](https://zenn.dev/odakin/articles/claude-code-multi-project) の続編です。CLAUDE.md / SESSION.md の基本パターンを前提としています。
 :::
 
 前回の記事では、CLAUDE.md と SESSION.md の分離で autocompact 問題を解決する設計パターンを紹介した。
@@ -240,3 +241,4 @@ Claude Code は強力だが、放っておくと雑な仕事をする。呪文�
 リポジトリ: https://github.com/odakin/claude-config
 
 前回の記事: [Claude Codeが全部忘れる問題を解決する](https://zenn.dev/odakin/articles/claude-code-multi-project)
+次の記事: [「Claude Codeが全部忘れる問題」のその後―20リポ運用で踏んだ3つの地雷と自動化した解決策](https://zenn.dev/odakin/articles/claude-code-guardrails)
