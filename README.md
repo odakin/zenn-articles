@@ -15,6 +15,8 @@ Zenn.dev 記事の一元管理リポジトリ。zenn-cli + GitHub 連携で自�
 | `cc-seven-spells` | Claude Codeを手懐ける7つの呪文―実運用で見つけたTips集 | 未公開 |
 | `epstein-ai-evasion-digest` | ChatGPTは内心『疑わしい』と思いながら『低い』と書いていた | 未公開 |
 | `epstein-substack-digest` | エプスタインを守ったのは誰か――「道連れ構造」という答え | 未公開（Substack用） |
+| `claude-code-guardrails` | 「Claude Codeが全部忘れる問題」のその後―3つの地雷と自動化した解決策 | 公開済 |
+| `parser-open-now` | 設計原則を誤って適用して間違った答えを出荷していた話 | 未公開（Zenn上限のため待機中） |
 
 英語記事は [dev.to](https://dev.to/odakin) で公開。ソースは [`odakin/devto-articles`](https://github.com/odakin/devto-articles) で管理。
 
