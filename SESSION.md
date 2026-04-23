@@ -12,6 +12,10 @@
 | `epstein-ai-evasion-digest.md` | ChatGPTは内心『疑わしい』と思いながら… | 投稿許可待ち |
 | `epstein-substack-digest.md` | エプスタインを守ったのは誰か | Substack 用（Zenn には publish しない） |
 
+## 記事候補（未着手）
+
+- Claude Code skills アンサー記事（日本語版）— 詳細メモは個人層 `odakin-prefs/blog-ideas.md` 参照
+
 ## 直近の作業（2026-04-01）
 
 - Claude Code 続編記事 `claude-code-guardrails` を公開済み（dev.to 英語版も同日公開）
