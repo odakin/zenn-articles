@@ -27,7 +27,7 @@ npx zenn preview    # ローカルプレビュー → http://localhost:8000
 npx zenn new:article --slug my-new-article   # 新規記事作成
 ```
 
-記事を編集して `git push` すると zenn.dev に自動デプロイされる。
+記事を編集して `git push` すると zenn.dev に自動デプロイされる。公開は frontmatter の `published: false` → `true` にして push。
 
 ## セットアップ
 
