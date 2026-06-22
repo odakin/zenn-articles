@@ -25,6 +25,9 @@ zenn-articles/
 - 公開: frontmatter の `published: false` → `true` に変えて push
 - デプロイ: GitHub 連携により `articles/` を含む push で自動デプロイ
 
+## 執筆規約
+Zenn.dev の platform 仕様 (タイトル 70 字 / HTML サニタイズ / `:::message`・`:::details` / 文字数見積もり / frontmatter) と GFM 執筆の落とし穴 (bold × 全角句読点 等) の正本は `~/Claude/claude-config/conventions/zenn.md`。本リポは zenn-cli 運用に閉じる。
+
 ## How to Resume
 1. SESSION.md を読む（未公開記事リスト・直近の作業）
 2. README.md の記事一覧を参照
