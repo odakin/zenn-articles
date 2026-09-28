@@ -1,5 +1,7 @@
 # SESSION — zenn-articles
 
+> 📌 SESSION.md = 案件ごとの現在地 + 正本への link (進んだら置き換える、 日付を見出しにした節・commit hash・messageId を置かない = 層1 claude-config/CONVENTIONS.md#session-no-durable-record)。 日付つきの節は SESSION-archive.md へ verbatim MOVE 済 (2026-09-28)。
+
 ## 現在の状態
 **待機中**: Zenn 投稿数上限に達したため、下書き記事の公開待ち（2026-04-01）
 
@@ -15,10 +17,3 @@
 ## 記事候補（未着手）
 
 - Claude Code skills アンサー記事（日本語版）— 詳細メモは個人層 `odakin-prefs/blog-ideas.md` 参照
-
-## 直近の作業（2026-04-01）
-
-- Claude Code 続編記事 `claude-code-guardrails` を公開済み（dev.to 英語版も同日公開）
-- パーサー続編記事 `parser-open-now` を作成、下書き保存（Zenn 上限のため公開待ち、dev.to 英語版は公開済み）
-- 全 Claude Code シリーズ（3本×英日）と全パーサーシリーズ（2本×英日）の相互リンク整備
-- dev.to 既存記事の壊れた URL サフィックス 2件を修正（-4f5n → -3kjm, -52e5 → -3cc0）
