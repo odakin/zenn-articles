@@ -20,7 +20,12 @@ zenn-articles/
 ```
 
 ## 運用
-記事追加・プレビュー (`npx zenn preview`)・公開・デプロイの手順は **README の「使い方」/「セットアップ」が正本** (= 公開リポなので運用コマンドの home は README、CLAUDE.md は重複させず pointer。`~/Claude/claude-config/CONVENTIONS.md` §README の流儀)。
+- ローカルプレビュー: `npx zenn preview` (→ http://localhost:8000)
+- 新規記事: `npx zenn new:article --slug <slug>`
+- 公開・デプロイ: 記事を編集して `git push` すると zenn.dev に自動デプロイされる。公開は frontmatter の `published: false` → `true` にして push
+- 初回セットアップ: zenn.dev ダッシュボード → デプロイ管理 → GitHub 連携で `odakin/zenn-articles` を接続
+
+README の「使い方」/「セットアップ」はこの写し (公開リポなので利用者向けに README にも載せる。変えたら両方を直す。`~/Claude/claude-config/CONVENTIONS.md` §README の流儀)。
 
 ## 執筆規約
 Zenn.dev の platform 仕様 (タイトル 70 字 / HTML サニタイズ / `:::message`・`:::details` / 文字数見積もり / frontmatter) と GFM 執筆の落とし穴 (bold × 全角句読点 等) の正本は `~/Claude/claude-config/conventions/zenn.md`。本リポは zenn-cli 運用に閉じる。
