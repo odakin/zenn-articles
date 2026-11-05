@@ -27,4 +27,4 @@
 関連する CLAUDE.md セクション、commit、過去の事故等への pointer。
 ```
 
-参考: `~/Claude/claude-config/DESIGN.md`, `~/Claude/twcu-seminar/DESIGN.md`, `~/Claude/lectures/DESIGN.md` 等。
+参考: `~/Claude/claude-config/DESIGN.md` 等。
